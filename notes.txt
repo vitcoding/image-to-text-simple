@@ -1,0 +1,10 @@
+Tesseract OCR Engine: pytesseract requires a separate installation of the Tesseract OCR Engine. Depending on your operating system, you can install it:
+
+Windows: Users should launch the Tesseract installer after downloading it from the official GitHub source.
+https://github.com/UB-Mannheim/tesseract/wiki
+
+Linux: Make use of the distribution-specific package manager. For instance, you can run the following command on Ubuntu or Debian.
+sudo apt-get install tesseract-ocr
+
+Additional languages:
+https://github.com/tesseract-ocr/tessdata
